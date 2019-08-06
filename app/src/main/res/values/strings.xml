@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">BUT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to BUT</string>
+    <string name="nav_header_subtitle">International Relations Office</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="about_but">About BUT</string>
+    <string name="faculties">Faculties</string>
+    <string name="emergency_number">Emergency Number</string>
+    <string name="contact_search">Contact Search</string>
+    <string name="menu_share">Share</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="descriton">Description</string>
+    <string name="call">Call</string>
+    <string name="facebook">Follow us On Facebook</string>
+    <string name="instagram">Follow us On Instagram</string>
+    <string name="twitter">Follow us On Twitter</string>
+    <string name="about">About</string>
+    <string name="about_desc">Established in 1949. 8,500 students, 660 teachers,
+        27 first degree courses, 21 second degree courses, nearly 140 bilateral agreements on
+        scientific and educational cooperation with foreign partners,
+        over 260 Erasmus+ bilateral agreements, 13 double-degree agreements.</string>
+    <string name="second_des">Bialystok University of Technology (BUT) was established in 1949 and has a long tradition
+        of educating engineers and young scientists. Now we have nearly 8,500 students and 660 teachers – experts in their fields.
+        Bialystok University of Technology has 7 Faculties (Departments): Faculty of Architecture, Faculty of Civil
+        and Environmental Engineering, Faculty of Electrical Engineering, Faculty of Computer Science, Faculty of Mechanical
+        Engineering, Faculty of Engineering Management, and Faculty of Forestry in Hajnowka
+        (due to its specialization located in the town of Hajnowka, at the heart of Bialowieza Primaeval Forest).</string>
+
+
+    <string-array name="emergency_number">
+        <item>112</item>
+        <item>999</item>
+        <item>998</item>
+        <item>997</item>
+    </string-array>
+
+
+    <string-array name="emergency_describe">
+        <item>Pan-European emergency number</item>
+        <item>Emergency</item>
+        <item>Fire brigade</item>
+        <item>Police</item>
+    </string-array>
+
+    <string-array name="faculties_name">
+        <item>Faculty of Architecture</item>
+        <item>Faculty of Civil and Environmental Engineering</item>
+        <item>Faculty of Electrical Engineering</item>
+        <item>Faculty of Mechanical Engineering</item>
+        <item>Faculty of Computer Science</item>
+        <item>Faculty of Engineering Management</item>
+        <item>Faculty of Forestry in Hajnówka</item>
+
+    </string-array>
+
+
+    <string name="f_name">Faculties names</string>
+    <string name="f_adress">Faculty address</string>
+    <string name="phone">Phone</string>
+    <string name="deans_offie">Dean Office:</string>
+    <string name="web_site">Web Site</string>
+    <string name="email">E-mail</string>
+
+    <string name="f_architecture">Faculty of Architecture</string>
+    <string name="architecture_email">sekretariat.wa@pb.edu.pl</string>
+    <string name="architecture_dean_email">dziekan.wa@pb.edu.pl</string>
+
+    <string name="f_of_civil">Faculty of Civil and Environmental Engineering</string>
+    <string name="civil_email">we.sekretariat@pb.edu.pl  </string>
+    <string name="civil_dean_email">m.dubowski@pb.edu.pl</string>
+
+    <string name="f_electric">Faculty of Electrical Engineering</string>
+    <string name="electric_email">we.sekretariat@pb.edu.pl</string>
+    <string name="electric_dean_email">m.dubowski@pb.edu.pl</string>
+
+    <string name="f_mechanical">Faculty of Mechanical Engineering</string>
+    <string name="mechanical_email">wmechaniczny@pb.edu.pl</string>
+    <string name="mechanical_dean_email">dziekan.wm@pb.edu.pl</string>
+
+    <string name="f_computer">Faculty of Computer Science</string>
+    <string name="computer_email">wi.sekretariat@pb.edu.pl</string>
+    <string name="computer_dean_email">wi.sekretariat@pb.edu.pl</string>
+
+    <string name="f_management">Faculty of Engineering Management</string>
+    <string name="manager_email">wz_pb@pb.edu.pl</string>
+    <string name="mamanger_dean_email">wz_pb@pb.edu.pl</string>
+
+    <string name="f_foresty">Faculty of Forestry in Hajnówka</string>
+    <string name="foresty_email">zwl.sekretariat@pb.edu.pl</string>
+    <string name="foresty_dean_email">zwl.dziekan@pb.edu.pl</string>
+
+
+    <string-array name="faculties_adress">
+        <item>11, Oskara Sosnowskiego Str., 15-893 Białystok</item>
+        <item>45E, Wiejska Str., 15-351 Białystok</item>
+        <item>45D, Wiejska Str., 15-351 Białystok</item>
+        <item>45C, Wiejska Str., 15-351 Białystok</item>
+        <item>45A, Wiejska Str., 15-351 Białystok</item>
+        <item>2, Ojca Stefana Tarasiuka Str., 16-001 Kleosin-Białystok</item>
+        <item>8, Piłsudskiego Str., 17-200 Hajnówka</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+
+
+    <string name="todo">TODO</string>
+</resources>
